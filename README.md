@@ -27,7 +27,11 @@ Data Visualization – Trend lines, bar charts, KPIs, and slicers for interactiv
 
 📂 Repository Structure
 Customer-Service-Analysis/
+
 ├── 📊 pwc_tasks.pbix            # Power BI dashboard file
+
 ├── 🖼 call_centre_Trends.PNG    # Sample visualization (snapshot of trends)
+
 ├── 📄 README.md                 # Project documentation
-└── 📂 (Additional data files if any)
+
+
